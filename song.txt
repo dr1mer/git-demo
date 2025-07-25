@@ -9,3 +9,5 @@ Hi,
 this if version from feature branch
 
 Adding extra line
+
+Feature new commit
