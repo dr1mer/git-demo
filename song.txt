@@ -7,3 +7,5 @@ this is remote version numer 2
 
 Hi,
 this if version from feature branch
+
+Adding extra line
